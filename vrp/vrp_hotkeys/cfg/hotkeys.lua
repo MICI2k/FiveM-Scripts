@@ -59,7 +59,7 @@ cfg.hotkeys = {
 local InTimer = false
 RegisterNetEvent('htk:_T') 
 AddEventHandler('htk:_T', function() 
-	local _t = 10
+	local _t = 60
 	if InTimer then return end
 	InTimer = true
 	Citizen.CreateThread(function() 
