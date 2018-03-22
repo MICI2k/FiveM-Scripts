@@ -3,6 +3,8 @@ fx-server only
 
 Hotkeys , based on Sighmir's work , i added a cooldown command when you die and there are no ems online , so you'll have to wait 1 minute before you respawn.
 
+Edit line 62 to change the timer.
+
 This is an interface for you to bind hotkeys to functions on press and on release.
 Use the cfg file hotkeys.lua.
 
