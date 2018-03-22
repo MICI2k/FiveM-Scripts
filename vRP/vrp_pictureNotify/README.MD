@@ -1,6 +1,8 @@
 # vrp_pictureNotify
 
-Replace this with the original one in vrp\modules\player_state
+Replace this with the original one in vrp\modules\player_state 
+
+Change the message how you like at line 54.
 
 the main function it's : vRP.notifyPicture(picture, icon_type, title, int, message)
 
