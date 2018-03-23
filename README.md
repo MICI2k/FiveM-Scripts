@@ -1,7 +1,5 @@
 # FiveM-Scripts
 
-Credits for Sighmir's vrp_hotkeys ( the main code )
-
 # License
 
 FiveM Scripts Copyright (C) 2018 MICI2k
